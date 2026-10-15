@@ -1,0 +1,10 @@
+{
+  "items": [
+    { "id": "spanish-latte", "name": { "en": "Spanish Latte", "ar": "سبانيش لاتيه" }, "description": { "en": "Velvety espresso, steamed milk and a touch of sweetness.", "ar": "إسبريسو ناعم مع حليب مبخر ولمسة حلاوة." }, "price": "TBC", "category": "hot-coffee", "tags": ["hot", "coffee"], "image": "https://images.unsplash.com/photo-1541167760496-1628856ab772?w=900&q=85" },
+    { "id": "iced-caramel", "name": { "en": "Iced Caramel Coffee", "ar": "آيس كراميل كوفي" }, "description": { "en": "Cold brew energy, caramel silk and plenty of ice.", "ar": "كولد برو، كراميل ناعم وثلج كثير." }, "price": "TBC", "category": "iced", "tags": ["iced", "coffee"], "image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=900&q=85" },
+    { "id": "matcha", "name": { "en": "Matcha Cloud", "ar": "ماتشا كلاود" }, "description": { "en": "Bright ceremonial matcha, milk and a soft cloud of foam.", "ar": "ماتشا احتفالية، حليب ورغوة خفيفة." }, "price": "TBC", "category": "matcha", "tags": ["iced", "vegetarian"], "image": "https://images.unsplash.com/photo-1515823064-d6e0c04616a7?w=900&q=85" },
+    { "id": "mojito", "name": { "en": "Mojito", "ar": "موهيتو" }, "description": { "en": "Fresh mint, citrus sparkle and a cool finish.", "ar": "نعناع طازج، حمضيات وانتعاش بارد." }, "price": "TBC", "category": "coolers", "tags": ["iced", "vegan"], "image": "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=900&q=85" },
+    { "id": "lemon-mint", "name": { "en": "Lemon-Mint Cooler", "ar": "ليمون نعناع" }, "description": { "en": "A sunny, sparkling reset for long afternoons.", "ar": "انتعاش غازي مشرق لفترات الظهيرة الطويلة." }, "price": "TBC", "category": "coolers", "tags": ["iced", "vegan"], "image": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?w=900&q=85" },
+    { "id": "cake", "name": { "en": "Daily Cake", "ar": "كيكة اليوم" }, "description": { "en": "Ask what came out of the oven today.", "ar": "اسألنا عن كيكة اليوم." }, "price": "TBC", "category": "desserts", "tags": ["vegetarian"], "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=900&q=85" }
+  ]
+} 
